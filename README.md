@@ -1,133 +1,61 @@
-# 🎮 EpicPass (Frontend)
+# EpicPass
 
-EpicPass is a modern movie ticket booking platform built with **React.js** and **Bootstrap**. It provides an interactive UI with movie listings, trailers, seat selection, dark mode, and more.
+EpicPass is a project designed to manage and secure your passwords efficiently. It provides a user-friendly interface and robust encryption to ensure your sensitive information remains safe.
 
----
+## Features
 
-## 📸 Screenshots
+- Secure password storage with encryption.
+- Easy-to-use interface for managing passwords.
+- Cross-platform compatibility.
+- Password generation tool.
+- Search functionality for quick access.
 
-### 🏠 Home Page
+## Installation
 
- ![Home Page](./Screenshot/home.jpg)
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/EpicPass.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd EpicPass
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-The landing page displays the latest movies, events, and special offers.
+## Usage
 
+1. Start the application:
+    ```bash
+    npm start
+    ```
+2. Open your browser and navigate to `http://localhost:3000`.
 
-### 🎭 Movie Details Page
+## Contributing
 
- ![Movie Details](./Screenshot/trailer.jpg)
+Contributions are welcome! Please follow these steps:
 
-Users can browse available movies with their posters, genres, and ratings.
-Detailed information about a movie, including trailers, cast, and synopsis.
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m "Add feature-name"
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-name
+    ```
+5. Open a pull request.
 
-### 🎟️ Seat Selection
+## License
 
- ![Seat Selection](./Screenshot/seats.jpg)
+This project is licensed under the [MIT License](LICENSE).
 
-An interactive seat selection interface for booking movie tickets.
+## Contact
 
-### 🌙 Dark Mode
-
-Easily switch between light and dark themes for better user experience.
-
-### 🍿️ Events Page
-
- ![Events](./Screenshot/event.jpg)
-
-Find and explore information about concerts, plays, and other live events.
-
-### 🏆 Sports Section
-
- ![Sports](./Screenshot/sports.jpg)
-
-Stay updated with live sports events, schedules, and details.
-
-### 🎁 Offers Page
-
- ![Offers](./Screenshot/offer.jpg)
-
-Check out special discounts and promotional offers on movie tickets and events.
-
----
-
-## ✨ Features
-
-👉 **Now Showing Section** – Displays currently available movies with genre, release date, rating, and price.\
-👉 **Movie Trailers** – Watch trailers before booking.\
-👉 **Dark Mode Toggle** – Switch between light and dark themes.\
-👉 **Seat Selection System** – Choose seats while booking tickets.\
-👉 **Navigation Bar** – Browse different sections like movies, events, sports, and offers.\
-👉 **User Authentication** – Login and register functionality.\
-👉 **Search Functionality** – Quickly find movies, events, and sports.\
-👉 **Responsive Design** – Fully optimized for mobile and desktop.
-
----
-
-## 🛠 Tech Stack
-
-- ⛒️ React.js
-- 🎨 Bootstrap
-- 🛯 React Router
-- 🔒 Local Storage (for authentication)
-
----
-
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the Repository:
-
-```bash
-git clone https://github.com/pruthvishetty1789/EpicPass.git
-```
-
-### 2️⃣ Navigate to Project Directory:
-
-```bash
-cd EpicPass
-```
-
-### 3️⃣ Install Dependencies:
-
-```bash
-npm install
-```
-
-### 4️⃣ Start the Development Server:
-
-```bash
-npm start
-```
-
-The app will run at:\
-📞 `http://localhost:3000/`
-
----
-
-## 👨‍💻 Usage
-
-- Open the app in your browser.
-- Browse movies, watch trailers, and book tickets!
-- Check out events, sports, and special offers.
-- Enjoy a seamless movie exploration experience.
-
----
-
-## 🤝 Contributions
-
-Contributions are **welcome**! If you'd like to improve the project:
-
-1. **Fork** the repository
-2. **Create a new branch** (`git checkout -b feature-branch`)
-3. **Commit your changes** (`git commit -m "Added new feature"`)
-4. **Push to your branch** (`git push origin feature-branch`)
-5. **Open a Pull Request`
-
----
-
-## 🐏 License
-
-This project is licensed under the **MIT License**.
-
-
-
-
+For any inquiries, please contact [your-email@example.com].
